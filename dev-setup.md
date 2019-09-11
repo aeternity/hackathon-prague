@@ -1,13 +1,21 @@
 # Developer Tools Setup and Overview
 
+- [aeternity node](#aeternity-node): aeternity blockchain full node
 - [sdk](#sdk): sdk to integrate aeternity
 - [base-aepp](#base-aepp): aeternity developed pwa/native wallet app and aepps browser
 - [aeproject](#aeproject): local contract development setup and 
+- [aecli](#aecli): commandline tools to interact with aeternity
 - [aeternity protocol](#aeternity-protocol): protocol definition of aeternity
 - [sdk-testnet](#sdk-testnet): hosted aeternity testnet nodes
 - [faucet](#faucet): faucet to receive testnet tokens
 - [documentation-hub](#documentation-hub): hub for all gathered documentations (eventually outdated)
 - [tutorials and sophia examples](#tutorials-and-sophia-examples): aeternity tutorials and sophia examples (eventually outdated)
+
+## aeternity node
+ - full node written in erlang
+ - provides http api documented in https://api-docs.aeternity.io/ and available in [sdk-testnet](#sdk-testnet)
+ - https://github.com/aeternity/aeternity
+ - Usage-Documentation: https://github.com/aeternity/aeternity/tree/master/docs
 
 ## sdk
  - JS-SDK: https://github.com/aeternity/aepp-sdk-js
@@ -48,6 +56,12 @@
     - sample chain assert js tests for the contract in `test/`
     - `aeproject test` to run tests
     - `aeproject deploy -n testnet -s YOUR_FUNDED_TESTNET_SECRET_KEY` to deploy to testnet (as specified in `deployment/deploy.js`)
+
+## aecli
+ - commandline tools to interact with aeternity blockchain, e.g. create account and make transactions
+ - Usage-Documentation: https://github.com/aeternity/aepp-cli-js
+ - Install: `npm install -g @aeternity/aepp-cli`
+ - Create Account: `aecli account create ACCOUNT_NAME`
 
 ## aeternity protocol
  - full aeternity protocol specification
