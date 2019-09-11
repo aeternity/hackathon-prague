@@ -1,13 +1,11 @@
-# hackathon-prague
-Aeternity Hackathon Prague 2019
+# Aeternity Hackathon Prague 2019
 
 # Resources:
 - [Development Resources, Overview and Setup](./dev-setup.md)
 
 # Agenda: 
 
-## September 14th:
-
+## Saturday, 14th September:
 - 10:00 **Warm-up and Get-together**
 - 10:15 **Introduction Round: Presenting the æternity Team On-site**
 - 10:30 Introduction of Online Participants
@@ -22,8 +20,7 @@ Aeternity Hackathon Prague 2019
 - 19:00 Dinner
 - 21:45 Closing of Day 1
 
-## September 15th:
-
+## Sunday, 15th September:
 - 10:00 **Get-together**
 - 10:30 Team Reports on Progress
 - 12:00 Lunch
