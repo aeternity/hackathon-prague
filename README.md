@@ -1,6 +1,9 @@
 # hackathon-prague
 Aeternity Hackathon Prague 2019
 
+# Resources:
+- [Development Resources, Overview and Setup](./dev-setup.md)
+
 # Agenda: 
 
 ## September 14th:
