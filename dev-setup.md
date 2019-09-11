@@ -1,5 +1,17 @@
 # Developer Tools Setup and Overview
 
+# Sample Getting Started
+
+- make sure docker, docker-compose and nodejs are installed and up-to-date
+- install [aecli](#aecli) `npm i -g @aeternity/aepp-cli`
+- generate new account `npm install -g @aeternity/aepp-cli` and take note of your keypair
+- learn about sophia at https://github.com/aeternity/protocol/blob/master/contracts/sophia.md
+- write your first contract in one of the [contract editors](#contracts-editors)
+- test your smart contract with [aeproject](#aeproject)
+- integrate your contract using the [sdk](#sdk) in your app
+
+# Overview
+
 - [aeternity node](#aeternity-node): aeternity blockchain full node
 - [sdk](#sdk): sdk to integrate aeternity
 - [base-aepp](#base-aepp): aeternity developed pwa/native wallet app and aepps browser
@@ -15,6 +27,8 @@
 - [compiler](#compiler): standalone sophia compiler
 - [documentation-hub](#documentation-hub): hub for all gathered documentations (eventually outdated)
 - [tutorials and sophia examples](#tutorials-and-sophia-examples): aeternity tutorials and sophia examples (eventually outdated)
+
+# Resources
 
 ## aeternity node
  - full node written in erlang
