@@ -3,9 +3,11 @@
 - [sdk](#sdk): sdk to integrate aeternity
 - [base-aepp](#base-aepp): aeternity developed pwa/native wallet app and aepps browser
 - [aeproject](#aeproject): local contract development setup and 
+- [aeternity protocol](#aeternity-protocol): protocol definition of aeternity
 - [sdk-testnet](#sdk-testnet): hosted aeternity testnet nodes
 - [faucet](#faucet): faucet to receive testnet tokens
 - [documentation-hub](#documentation-hub): hub for all gathered documentations (eventually outdated)
+- [tutorials and sophia examples](#tutorials-and-sophia-examples): aeternity tutorials and sophia examples (eventually outdated)
 
 ## sdk
  - JS-SDK: https://github.com/aeternity/aepp-sdk-js
@@ -47,6 +49,11 @@
     - `aeproject test` to run tests
     - `aeproject deploy -n testnet -s YOUR_FUNDED_TESTNET_SECRET_KEY` to deploy to testnet (as specified in `deployment/deploy.js`)
 
+## aeternity protocol
+ - full aeternity protocol specification
+ - https://github.com/aeternity/protocol
+ - sophia language reference: https://github.com/aeternity/protocol/blob/master/contracts/sophia.md
+
 ## sdk-testnet
  - Api-Documentation: https://api-docs.aeternity.io/
  - URL: https://sdk-testnet.aepps.com/
@@ -58,3 +65,8 @@ open https://testnet.faucet.aepps.com/ to receive testnet tokens
 ## documentation-hub
  - eventually outdated, use with care and prefer available documentation of single projects
  - http://aeternity.com/documentation-hub/
+
+## tutorials and sophia examples
+ - eventually outdated, use with care
+ - https://github.com/aeternity/aepp-sophia-examples
+ - https://github.com/aeternity/tutorials
