@@ -1,18 +1,40 @@
 # Developer Tools Setup and Overview
 
+- [sdk](#sdk): sdk to integrate aeternity
+- [base-aepp](#base-aepp): aeternity developed pwa/native wallet app and aepps browser
+- [aeproject](#aeproject): local contract development setup and 
 - [sdk-testnet](#sdk-testnet): hosted aeternity testnet nodes
 - [faucet](#faucet): faucet to receive testnet tokens
-- [aeproject](#aeproject): local contract development setup and 
+- [documentation-hub](#documentation-hub): hub for all gathered documentations (eventually outdated)
 
-### sdk-testnet
- - Api-Documentation: https://api-docs.aeternity.io/
- - URL: https://sdk-testnet.aepps.com/
- - Combines both internal and external endpoints of the node in one interface
+## sdk
+ - JS-SDK: https://github.com/aeternity/aepp-sdk-js
+    - fully featured sdk for all aeternity functonallity
+    - integration in base-aepp via `await Aepp()` interface
+    - `npm i @aeternity/aepp-sdk` to install
+    - sample setup for testnet
+    ```
+      await Universal({
+        url: 'https://sdk-testnet.aepps.com/',
+        internalUrl: 'https://sdk-testnet.aepps.com/',
+        keypair: YOUR_KEYPAIR,
+        networkId: 'ae_uat',
+        compilerUrl: 'https://compiler.aepps.com'
+      });
+      ```
+ - Python-SDK: https://github.com/aeternity/aepp-sdk-python
+ - GO-SDK: https://github.com/aeternity/aepp-sdk-go
+ - Elixir-SDK: https://github.com/aeternity/aepp-sdk-elixir
+ - Java-SDK: https://github.com/kryptokrauts/aepp-sdk-java
+    - community developed and maintained
 
-### faucet
-open https://testnet.faucet.aepps.com/ to receive testnet tokens
+## base-aepp
+ - aeternity wallet aepp and aepps browser
+ - provides wallet and signing access to aepps opened inside
+ - available at https://base.aepps.com/ or https://github.com/aeternity/aepp-base
+ - to run locally for development, clone, `npm i`, `npm run serve`, open in browser in responsive mode as iPhone
 
-### aeproject
+## aeproject
  - Requirements: docker, docker-compose, nodejs
  - Install: `npm i -g aeproject`
  - Documentation: https://aeproject.gitbook.io/aeproject/
@@ -24,4 +46,15 @@ open https://testnet.faucet.aepps.com/ to receive testnet tokens
     - sample chain assert js tests for the contract in `test/`
     - `aeproject test` to run tests
     - `aeproject deploy -n testnet -s YOUR_FUNDED_TESTNET_SECRET_KEY` to deploy to testnet (as specified in `deployment/deploy.js`)
-    
+
+## sdk-testnet
+ - Api-Documentation: https://api-docs.aeternity.io/
+ - URL: https://sdk-testnet.aepps.com/
+ - Combines both internal and external endpoints of the node in one interface
+
+## faucet
+open https://testnet.faucet.aepps.com/ to receive testnet tokens
+
+## documentation-hub
+ - eventually outdated, use with care and prefer available documentation of single projects
+ - http://aeternity.com/documentation-hub/
