@@ -7,7 +7,12 @@
 - [aecli](#aecli): commandline tools to interact with aeternity
 - [aeternity protocol](#aeternity-protocol): protocol definition of aeternity
 - [sdk-testnet](#sdk-testnet): hosted aeternity testnet nodes
+- [contracts editors](#contracts-editors): two different contract editors
+- [sophia ide plugins](#sophia-ide-plugins): integrations for sophia language in vscode and jetbrains editors
+- [middleware](#middleware): middleware to aggregate and index data from aeternity node
+- [blockchain explorer](#blockchain-explorer): blockchain explorer for mainnet and testnet
 - [faucet](#faucet): faucet to receive testnet tokens
+- [compiler](#compiler): standalone sophia compiler
 - [documentation-hub](#documentation-hub): hub for all gathered documentations (eventually outdated)
 - [tutorials and sophia examples](#tutorials-and-sophia-examples): aeternity tutorials and sophia examples (eventually outdated)
 
@@ -15,6 +20,7 @@
  - full node written in erlang
  - provides http api documented in https://api-docs.aeternity.io/ and available in [sdk-testnet](#sdk-testnet)
  - https://github.com/aeternity/aeternity
+ - full sync takes 1-2 days
  - Usage-Documentation: https://github.com/aeternity/aeternity/tree/master/docs
 
 ## sdk
@@ -73,8 +79,33 @@
  - URL: https://sdk-testnet.aepps.com/
  - Combines both internal and external endpoints of the node in one interface
 
+## contracts editors
+ - fire editor http://fireeditor.nikitafuchs.de/
+ - old contracts editor https://testnet.contracts.aepps.com/
+
+## sophia-ide-plugins
+ - vscode: https://marketplace.visualstudio.com/items?itemName=MilenRadkov.sophia
+ - jetbrains: https://plugins.jetbrains.com/plugin/12197-sophia-ternity
+
+## middleware
+ - middleware to aggregate and index data of aeternity node
+ - provides websocket listeners to whats happening in the network
+ - https://github.com/aeternity/aepp-middleware
+ - Documentation: https://github.com/aeternity/aepp-middleware/blob/develop/docs/middleware-guide.md
+ - Explorer frontend at: https://mdw.aepps.com/ and https://testnet.mdw.aepps.com/
+
+## blockchain explorer
+ - by middleware: https://mdw.aepps.com/ and https://testnet.mdw.aepps.com/
+ - default explorer: https://explorer.aepps.com/ and https://testnet.explorer.aepps.com/
+ - aeknow community explorer: http://aeknow.org/
+ 
 ## faucet
 open https://testnet.faucet.aepps.com/ to receive testnet tokens
+
+## compiler
+ - compiler for sophia smart contracts
+ - hosted at: https://compiler.aepps.com/
+ - https://github.com/aeternity/aesophia and http wrapper at https://github.com/aeternity/aesophia_http
 
 ## documentation-hub
  - eventually outdated, use with care and prefer available documentation of single projects
