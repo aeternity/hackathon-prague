@@ -4,10 +4,10 @@
 
 - make sure docker, docker-compose and nodejs are installed and up-to-date
 - install [aecli](#aecli) `npm i -g @aeternity/aepp-cli`
-- generate new account `npm install -g @aeternity/aepp-cli` and take note of your keypair
+- generate new account `npm install -g @aeternity/aepp-cli` and take note of your keypair and get tokens from [faucet](#faucet)
 - learn about sophia at https://github.com/aeternity/protocol/blob/master/contracts/sophia.md
 - write your first contract in one of the [contract editors](#contracts-editors)
-- test your smart contract with [aeproject](#aeproject)
+- test your smart contract with [aeproject](#aeproject) and deploy to testnet
 - integrate your contract using the [sdk](#sdk) in your app
 
 # Overview
