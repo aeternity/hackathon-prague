@@ -18,3 +18,6 @@
 
 ### [Smart real estate](https://github.com/aeternity/aepp-sophia-examples/tree/aeproject-update-and-fixes/examples/SmartRealEstate)
 - this project implements basic back-end functionality for managing real estate.
+
+### [Tic Tac Toe](https://github.com/aeternity/aepp-sophia-examples/tree/aeproject-update-and-fixes/examples/TicTacToe)
+- this project implements tic-tac-toe game functionallity on-chain.
