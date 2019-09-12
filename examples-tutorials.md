@@ -1,5 +1,10 @@
 # Examples and Tutorials
 
+## Standards
+
+- [Fungible token standard (AEX-9)](https://github.com/aeternity/AEXs/blob/bbcd1767bcd4f2d0b01a500b1828edd81a94e9ea/AEXS/aex-9.md)
+  - [Reference implementation](https://github.com/mradkov/aeternity-fungible-token)
+
 ## Sophia Smart Contracts
 
 ### [Crypto Hamster](https://github.com/aeternity/aepp-sophia-examples/tree/aeproject-update-and-fixes/examples/CryptoHamster)
