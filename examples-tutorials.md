@@ -15,3 +15,6 @@
 
 ### [Spend to many](https://github.com/aeternity/aepp-sophia-examples/tree/aeproject-update-and-fixes/examples/SpendToMany)
 - this contract allows user to spend tokens to multiple other accounts, by just calling spend_to_many(map_of_users) function.
+
+### [Smart real estate](https://github.com/aeternity/aepp-sophia-examples/tree/aeproject-update-and-fixes/examples/SmartRealEstate)
+- this project implements basic back-end functionality for managing real estate.
