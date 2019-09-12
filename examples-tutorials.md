@@ -1,6 +1,6 @@
 # Examples and Tutorials
 
-## Standards
+## Standards & Interfaces
 
 - [Fungible token standard (AEX-9)](https://github.com/aeternity/AEXs/blob/bbcd1767bcd4f2d0b01a500b1828edd81a94e9ea/AEXS/aex-9.md)
   - [Reference implementation](https://github.com/mradkov/aeternity-fungible-token)
