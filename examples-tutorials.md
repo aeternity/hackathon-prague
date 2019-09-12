@@ -21,3 +21,6 @@
 
 ### [Tic Tac Toe](https://github.com/aeternity/aepp-sophia-examples/tree/aeproject-update-and-fixes/examples/TicTacToe)
 - this project implements tic-tac-toe game functionallity on-chain.
+
+### [Smart data provider](https://github.com/aeternity/aepp-sophia-examples/tree/aeproject-update-and-fixes/examples/SmartDataProvider)
+- this example implements 2 contracts and 2 behaviours: client-side and server-side.
