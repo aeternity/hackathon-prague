@@ -9,6 +9,7 @@
 - write your first contract in one of the [contract editors](#contracts-editors)
 - test your smart contract with [aeproject](#aeproject) and deploy to testnet
 - integrate your contract using the [sdk](#sdk) in your app
+- checkout the [aepp-boilerplate](#aepp-boilerplate) to make your aepp work with vue in base-aepp
 
 # Overview
 
@@ -27,6 +28,7 @@
 - [compiler](#compiler): standalone sophia compiler
 - [documentation-hub](#documentation-hub): hub for all gathered documentations (eventually outdated)
 - [tutorials and sophia examples](#tutorials-and-sophia-examples): aeternity tutorials and sophia examples (eventually outdated)
+- [aepp-boilerplate](#aepp-boilerplate): vue boilerplate for aepps to work in base-aep
 
 # Resources
 
@@ -129,3 +131,7 @@ open https://testnet.faucet.aepps.com/ to receive testnet tokens
  - eventually outdated, use with care
  - https://github.com/aeternity/aepp-sophia-examples
  - https://github.com/aeternity/tutorials
+ 
+## aepp boilerplate
+ - https://github.com/kenodressel/aepp-boilerplate
+
