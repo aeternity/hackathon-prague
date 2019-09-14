@@ -27,6 +27,6 @@
 - 10:30 Team Reports on Progress
 - 12:00 Lunch
 - 16:00 Coffee Break (20 min)
-- 19:00 **Final Team Pitches**
+- 18:00 **Final Team Pitches**
 - 19:00 Dinner
 - 20:00 Paralelni Polis Closes. Contributions Can Be Submitted Until 10 AM on September 16th.
