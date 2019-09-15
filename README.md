@@ -1,5 +1,8 @@
 # Aeternity Hackathon Prague 2019
 
+# Teams:
+- **add a link to your presentatio and sourcecode below**
+
 # Resources:
 - [Development Resources, Overview and Setup](./dev-setup.md)
 - For questions find us on-site or [open an Issue](https://github.com/aeternity/hackathon-prague/issues/new/choose)
