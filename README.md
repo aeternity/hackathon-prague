@@ -1,7 +1,7 @@
 # Aeternity Hackathon Prague 2019
 
 # Teams:
-- **add a link to your presentatio and sourcecode below**
+- **add a link to your presentation and sourcecode below with a pull request**
 
 # Resources:
 - [Development Resources, Overview and Setup](./dev-setup.md)
