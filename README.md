@@ -3,6 +3,9 @@
 # Teams:
 - **add a link to your presentation and sourcecode below with a pull request**
 
+* **Lexon Aeternity Coop Charta:** https://gitlab.com/lexon-foundation/coop  
+  Anja Bajl, Arjan van Eersel, Marina Markezic, Henning Diedrich
+
 # Resources:
 - [Development Resources, Overview and Setup](./dev-setup.md)
 - For questions find us on-site or [open an Issue](https://github.com/aeternity/hackathon-prague/issues/new/choose)
