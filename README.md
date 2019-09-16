@@ -8,6 +8,7 @@
 - **meme hunter:** https://github.com/SukiCZ/meme_hunter ([presentation](https://docs.google.com/presentation/d/1fOHKyA2l9Tpnxhp8Uas2xItZaPRIWQz4AeJIX5dhZ80/edit?usp=sharing))  
   @Jkat (smart contract), @SukiCZ (python dev), Ethan Clime (Mental support, presentation and everything other)
 - **Identity Of Things:** https://github.com/kryptokrauts/universe-one-hackathon
+  Guillermo Prado, Nandan Joshi & Marco Walz
 
 # Resources:
 - [Development Resources, Overview and Setup](./dev-setup.md)
