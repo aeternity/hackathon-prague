@@ -10,7 +10,14 @@
 - **Identity Of Things:** https://github.com/kryptokrauts/universe-one-hackathon
    - Team: Guillermo Prado, Nandan Joshi & Marco Walz
    - Presentation: https://github.com/kryptokrauts/universe-one-hackathon/blob/master/IdentityOfThings.pdf
-
+- **GAMETERNITY PROJECT:** https://github.com/heclinares/aeternity-hackathon
+   - Team: Hector Linares, Hector Toledo Ballester
+- **PÆY ÆPP:** https://github.com/ae-paey/Paey-Aepp
+   - Team: Emmanuel Joseph (Jet)
+   - Recorded pitch (he could not present on Sunday due to internet problems): https://www.youtube.com/watch?v=UYDGVaszr3U&list=PLp1e2BYH0l-4G1fyqYVM9Fic6MX9QStXx
+-  **CHÆRGE:** https://github.com/asotirov/chaerge-aeternity-haeckathon-2019
+   - Team: Anton Sotirov
+   
 # Resources:
 - [Development Resources, Overview and Setup](./dev-setup.md)
 - For questions find us on-site or [open an Issue](https://github.com/aeternity/hackathon-prague/issues/new/choose)
