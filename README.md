@@ -3,8 +3,10 @@
 # Teams:
 - **add a link to your presentation and sourcecode below with a pull request**
 
-* **Lexon Aeternity Coop Charta:** https://gitlab.com/lexon-foundation/coop  
+- **Lexon Aeternity Coop Charta:** https://gitlab.com/lexon-foundation/coop   
   Anja Bajl, Arjan van Eersel, Marina Markezic, Henning Diedrich
+- **meme hunter:** https://github.com/SukiCZ/meme_hunter ([presentation](https://docs.google.com/presentation/d/1fOHKyA2l9Tpnxhp8Uas2xItZaPRIWQz4AeJIX5dhZ80/edit?usp=sharing))  
+  @Jkat (smart contract), @SukiCZ (python dev), Ethan Clime (Mental support, presentation and everything other)
 
 # Resources:
 - [Development Resources, Overview and Setup](./dev-setup.md)
