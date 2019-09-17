@@ -12,9 +12,9 @@
    - Presentation: https://github.com/kryptokrauts/universe-one-hackathon/blob/master/IdentityOfThings.pdf
 - **GAMETERNITY PROJECT:** https://github.com/heclinares/aeternity-hackathon
    - Team: Hector Linares, Hector Toledo Ballester
-- **PÆY ÆPP:** https://github.com/ae-paey/Paey-Aepp
-   - Team: Emmanuel Joseph (Jet)
-   - Recorded pitch (he could not present on Sunday due to internet problems): https://www.youtube.com/watch?v=UYDGVaszr3U&list=PLp1e2BYH0l-4G1fyqYVM9Fic6MX9QStXx
+- **Pæy:** https://github.com/ae-paey/Paey-Aepp
+   - Team: Emmanuel Joseph (JET)
+   - Recorded pitch (he could not present on Sunday due to internet problems): https://www.youtube.com/playlist?list=PLp1e2BYH0l-4G1fyqYVM9Fic6MX9QStXx
 -  **CHÆRGE:** https://github.com/asotirov/chaerge-aeternity-haeckathon-2019
    - Team: Anton Sotirov
    
