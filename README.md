@@ -3,7 +3,7 @@
 # Teams:
 - **add a link to your presentation and sourcecode below with a pull request**
 
-- **Lexon Aeternity Coop Charta:** https://gitlab.com/lexon-foundation/coop   
+- **Lexon Aeternity Coop Charta:** https://gitlab.com/lexon-foundation/coop ([website](http://www.lexon.tech/))  
   Anja Bajl, Arjan van Eersel, Marina Markezic, Henning Diedrich
 - **meme hunter:** https://github.com/SukiCZ/meme_hunter ([presentation](https://docs.google.com/presentation/d/1fOHKyA2l9Tpnxhp8Uas2xItZaPRIWQz4AeJIX5dhZ80/edit?usp=sharing))  
   @Jkat (smart contract), @SukiCZ (python dev), Ethan Clime (Mental support, presentation and everything other)
@@ -12,11 +12,13 @@
    - Presentation: https://github.com/kryptokrauts/universe-one-hackathon/blob/master/IdentityOfThings.pdf
 - **GAMETERNITY PROJECT:** https://github.com/heclinares/aeternity-hackathon
    - Team: Hector Linares, Hector Toledo Ballester
+   - Presentation: https://github.com/heclinares/aeternity-hackathon/blob/master/doc/aeternity-hackathon.pdf
 - **Pæy:** https://github.com/ae-paey/Paey-Aepp
    - Team: Emmanuel Joseph (JET)
    - Recorded pitch (he could not present on Sunday due to internet problems): https://www.youtube.com/playlist?list=PLp1e2BYH0l-4G1fyqYVM9Fic6MX9QStXx
 -  **CHÆRGE:** https://github.com/asotirov/chaerge-aeternity-haeckathon-2019
    - Team: Anton Sotirov
+   Presentation: https://github.com/asotirov/chaerge-aeternity-haeckathon-2019/blob/master/presentations/chaerge-hackathon-v2.pptx
    
 # Resources:
 - [Development Resources, Overview and Setup](./dev-setup.md)
